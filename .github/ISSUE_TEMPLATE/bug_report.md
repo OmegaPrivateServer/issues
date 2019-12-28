@@ -7,16 +7,21 @@ assignees: OmegaBison
 
 ---
 
+## Summary
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Expected Behavior
-<!--- Tell us what should happen -->
+<!--- Tell us what should happen. Add screenshots if applicable. -->
 
 ## Current Behavior
-<!--- Tell us what happens instead of the expected behavior -->
+<!--- Tell us what happens instead of the expected behavior. Add screenshots if applicable. -->
 
-## Possible Solution
+## Possible Solution & Detailed Description
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
+<!--- Provide a detailed description of the change or addition you are proposing -->
+
+## Characters
+<!--- List the character name for the character you were on when the issue occurrred -->
 
 ## Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
@@ -29,11 +34,3 @@ assignees: OmegaBison
 ## Context
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 <!--- Providing context helps us come up with a solution that is most useful in the real world -->
-
-<!--- Provide a general summary of the issue in the Title above -->
-
-## Detailed Description
-<!--- Provide a detailed description of the change or addition you are proposing -->
-
-## Possible Implementation
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
