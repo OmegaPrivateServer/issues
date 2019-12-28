@@ -3,12 +3,12 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: OmegaBison
+assignees: OmegaBison, reddituser7777
 
 ---
 
 ## Summary
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- Provide a general summary of the issue in the Title above. -->
 
 ## Expected Behavior
 <!--- Tell us what should happen. Add screenshots if applicable. -->
@@ -16,16 +16,19 @@ assignees: OmegaBison
 ## Current Behavior
 <!--- Tell us what happens instead of the expected behavior. Add screenshots if applicable. -->
 
+## Relevant Wiki Link
+<!--- Please make sure to reference a ffxiclopedia wiki entry no later than August 2008.  -->
+
 ## Possible Solution & Detailed Description
-<!--- Not obligatory, but suggest a fix/reason for the bug, -->
-<!--- Provide a detailed description of the change or addition you are proposing -->
+<!--- Not obligatory, but suggest a fix/reason for the bug. -->
+<!--- Provide a detailed description of the change or addition you are proposing. -->
 
 ## Characters
-<!--- List the character name for the character you were on when the issue occurrred -->
+<!--- List the character name for the character you were on when the issue occurred. -->
 
 ## Steps to Reproduce
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
+<!--- Provide a link to a live example, or an unambiguous set of steps to. -->
+<!--- reproduce this bug. Include code to reproduce, if relevant. -->
 1.
 2.
 3.
@@ -33,4 +36,4 @@ assignees: OmegaBison
 
 ## Context
 <!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
+<!--- Providing context helps us come up with a proper solution. -->
