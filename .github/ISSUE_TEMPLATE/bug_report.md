@@ -16,7 +16,8 @@ assignees: OmegaBison, reddituser7777, Ap0gee
 ## Current Behavior
 <!--- Tell us what happens instead of the expected behavior. Add screenshots if applicable. -->
 
-## Relevant Wiki Link (IMPORTANT: AUGUST 2008 WIKI ENTRIES OR EARLIER)
+## Relevant Wiki Link 
+(IMPORTANT: AUGUST 2008 WIKI ENTRIES OR EARLIER)
 <!--- Please make sure to reference a ffxiclopedia wiki entry no later than August 2008. -->
 <!-- If you submit a Wiki link from a period later than August 2008 you may be blocked from submitting future bug reports. -->
 
